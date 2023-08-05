@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StormOfGalaxy
-- 👀 I’m interested in programming, compose and art design
-- 🌱 I’m currently learning Java, Godot and Unity
+- 👀 I’m interested in programming, compose and arrange
+- 🌱 I’m currently learning Java
 
 <!---
 StormOfGalaxy/StormOfGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
