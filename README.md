@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StormOfGalaxy
 - 👀 I’m interested in programming, compose and arrange
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java and Kotlin
 
 <!---
 StormOfGalaxy/StormOfGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
